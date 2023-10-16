@@ -41,6 +41,10 @@ header {
     border-radius: 14.5px;
 }
 
+footer {
+    background-color: #373739;
+}
+
 .fMenu {
     list-style-type: none;
 }
