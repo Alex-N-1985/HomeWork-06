@@ -1,0 +1,11 @@
+header {
+    background-image: url("../img/headerImage.png");
+    background-repeat: round;
+    width: 1437px;
+    height: 803px;
+}
+
+.logo img {
+    width: 72px;
+    height: 35px;
+}
