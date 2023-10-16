@@ -40,3 +40,16 @@ header {
     border: 1px solid #E1A43B;
     border-radius: 14.5px;
 }
+
+.fMenu {
+    list-style-type: none;
+}
+
+.fMenu li {
+    display: inline-block;
+    margin-left: 25px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #FBFFFF;
+    padding: 5px 10px;
+}
