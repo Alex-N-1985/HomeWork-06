@@ -3,9 +3,22 @@ header {
     background-repeat: round;
     width: 1437px;
     height: 803px;
+    padding-left: 168px;
+    padding-right: 168px;
 }
 
 .logo img {
     width: 72px;
     height: 35px;
+}
+
+.logo h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: #E5E5E6;
+}
+
+.logo p {
+    font-size: 9px;
+    color: #909195;
 }
