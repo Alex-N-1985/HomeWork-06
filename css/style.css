@@ -93,3 +93,22 @@ footer {
     color: #FBFFFF;
     padding: 5px 10px;
 }
+
+footer {
+    padding: 25px 10px;
+}
+
+footer .cRight {
+    color: white;
+    font-size: 15.21px;
+    display: inline-block;
+    margin-left: 75px;
+}
+
+footer .pdPolitic {
+    color: #E5B53E;
+    font-size: 15.21px;
+    display: inline-block;
+    float: right;    
+    margin-right: 75px;
+}
