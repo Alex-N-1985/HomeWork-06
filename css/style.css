@@ -83,6 +83,7 @@ footer {
 
 .fMenu {
     list-style-type: none;
+    text-align: center;
 }
 
 .fMenu li {
@@ -101,14 +102,17 @@ footer {
 footer .cRight {
     color: white;
     font-size: 15.21px;
-    display: inline-block;
+    display: block;
     margin-left: 75px;
+    margin-bottom: 25px;
+    float: left;
 }
 
 footer .pdPolitic {
     color: #E5B53E;
     font-size: 15.21px;
-    display: inline-block;
-    float: right;    
+    display: block;        
     margin-right: 75px;
+    margin-bottom: 25px;
+    float: right;    
 }
