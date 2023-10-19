@@ -1,19 +1,10 @@
 header {
     background-image: url("../img/headerImage.png");
-    background-repeat: round;
-    width: 1437px;
-    height: 803px;
-    padding-left: 168px;
-    padding-right: 168px;
-}
-
-.logo img {
-    width: 72px;
-    height: 35px;
+    background-repeat: no-repeat;    
 }
 
 .logo h2 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: #E5E5E6;
 }
@@ -21,6 +12,51 @@ header {
 .logo p {
     font-size: 9px;
     color: #909195;
+}
+
+.ratingflag p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    font-weight: 100;
+}
+
+.ratingflag p b {
+    font-weight: 900;
+}
+
+.calc {
+    background-color: #84B73D;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 237px;
+    height: 45px;
+}
+
+.calc {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+.calc img {
+    width: 15.55px;
+    height: 19px;
+    vertical-align: bottom;
+}
+
+.hContact {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #96989F;
+    text-decoration: underline;
+}
+
+.hContact img {
+    width: 10px;
+    height: 7px;
 }
 
 .hMenu {
