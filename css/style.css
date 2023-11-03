@@ -143,8 +143,30 @@ nav ul li:hover {
     color: #262425;
 }
 
-.house-01 {
+.mcalcprice article p {
+    font-family: Roboto, sans-serif;
+    font-size: 11px;
+    color: #777779;
+}
 
+.btnnext {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    color: #FDFDFA;
+    width: 139px;
+    height: 47px;
+    background-color: #FEAA01;
+    border: 1px solid white;
+    border-radius: 5px;
+    vertical-align: baseline;
+    text-align: center;
+}
+
+.house-01 {
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    color: #555050;
+    font-weight: 500;
 }
 
 footer {
