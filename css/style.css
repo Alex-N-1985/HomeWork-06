@@ -237,6 +237,32 @@ nav ul li:hover {
     background-repeat: no-repeat;
 }
 
+.projects h2{
+    font-family: Roboto, sans-serif;
+    font-size: 47px;
+    color: #2D2D2F;
+    font-weight: normal;
+}
+
+.pcards h3 {
+    font-family: Roboto, sans-serif;
+    font-size: 29px;
+    color: gray;
+    font-weight: normal;
+}
+
+.watchproj {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    color: #FBFFFF;
+    text-align: center;
+    background-color: #73B918;
+    width: 285px;
+    height: 20px;
+    border-radius: 4px;
+    padding: 20px;
+}
+
 footer {
     background-color: #373739;
     width: 1440px;
