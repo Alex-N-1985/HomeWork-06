@@ -535,3 +535,60 @@ footer {
     background-color: #73B918;
     color: #ffffff;
 }
+
+.six-steps__mb img {
+    display: block;
+    width: 539px;
+    height: 381px;
+    border-bottom-right-radius: 80px;
+}
+
+.ss__time {
+    font-family: 'Gilroy-Regular';
+    font-size: 13px;
+    color: #4C4F56;
+}
+
+.ss__time b {
+    font-family: 'Gilroy-SemiBold';
+}
+
+.six-steps__mb h3 {
+    font-family: 'Gilroy-ExtraBold';
+    font-size: 35px;
+    color: #4C4F56;
+}
+
+.six-steps__mb p {
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    color: #4C4F56;
+}
+
+.six-steps__mb p b {
+    font-family: 'Gilroy-SemiBold';
+}
+
+.six-steps__mb-fs {
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    color: #4C4F56;
+}
+
+.six-steps__mb-sa img{
+    display: block;
+    width: 151px;
+    height: 215px;
+    border: 1px solid black;
+}
+
+.promot-n-gifts h2 {
+    font-family: 'Gilroy-Regular';
+    font-size: 47px;
+    color: #2D2D2F;
+    font-weight: lighter;
+}
+
+.promot-n-gifts h2 b {
+    font-weight: bold;
+}
