@@ -411,3 +411,127 @@ footer {
     float: right;
     margin-right: 60px;
 }
+
+.pop-proj h2 {
+    font-family: 'Gilroy-Bold';
+    font-size: 47px;
+    color: #2D2D2F;
+}
+
+.ppmenu ul {
+    display: inline-block;
+}
+
+.ppmenu ul li {
+    display: inline-block;
+    height: 20px;
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #efefef;
+    border-radius: 4px;    
+}
+
+.ppmenu ul li:hover {
+    background-color: #73B918;
+}
+
+.ppmenu ul li a {
+    font-family: 'Gilroy-Regular';
+    font-size: 13px;
+    color: #5c5f66;
+    text-decoration: none;
+}
+
+.ppmenu ul li:hover a {
+    color: #ffffff;
+}
+
+.ppmenu p {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.ppmenu p a {
+    font-family: 'Gilroy-SemiBold';
+    font-size: 14px;
+    color: #f7d047;
+    text-decoration: dotted;
+}
+
+.ppcard h3{
+    font-family: 'Gilroy-Bold';
+    font-size: 29px;
+    color: #000000;
+}
+
+.ppcard img {
+    display: block;
+    width: 350px;
+    height: 220px;    
+}
+
+.ppcard p {
+    font-family: 'Gilroy-Regular';
+    font-size: 13px;
+    color: #7a7d81;
+}
+
+.pp_price {
+    font-family: 'Gilroy-Bold';
+    font-size: 32px;
+    color: #73B918;
+}
+
+.pp__button {
+    background-color: #FEAA01;
+    border-radius: 5px;
+    border: 1px solid #FCFCFE;
+    width: 182px;
+    height: 40px;
+    padding: auto;
+}
+
+.pp__button a {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    color: #FCFCFE;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.pp_ip {
+    font-family: 'Gilroy-Regular';
+    font-size: 9px;
+    color: #B8B8BA;
+}
+
+.six-steps h2 {
+    font-family: 'Gilroy-Light';
+    font-size: 47px;
+    color: #2D2D2F;
+}
+
+.six-steps h2 b {
+    font-family: 'Gilroy-Bold';
+}
+
+.ss__menu ul li {
+    display: inline-block;
+    border-radius: 7px;
+    width: 160px;
+    height: 30px;
+    background-color: #efefef;
+    font-family: 'Gilroy-SemiBold';
+    font-size: 18px;
+    color: #333438;
+    text-align: center;
+    padding-top: 8px;
+    margin-right: 20px;
+}
+
+.ss__menu ul li:hover {
+    background-color: #73B918;
+    color: #ffffff;
+}
