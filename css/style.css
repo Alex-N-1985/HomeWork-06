@@ -127,6 +127,7 @@
 header {
     background-image: url("../img/headerImage.png");
     background-repeat: no-repeat;
+    background-size: contain;
     /* width: 1437px;
     height: 803px; */
 }
@@ -591,4 +592,178 @@ footer {
 
 .promot-n-gifts h2 b {
     font-weight: bold;
+}
+
+.promot-n-gifts__card1 {
+    background-image: url('../img/House31.png');
+}
+
+.promot-n-gifts__card2 {
+    background-image: url('../img/House32.png');    
+}
+
+.promot-n-gifts__card1, .promot-n-gifts__card2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-right: 25px;
+    width: 534px;
+    height: 296px;
+    padding: 10px;
+    font-size: 0;
+}
+
+.promot-n-gifts__card1 h3, .promot-n-gifts__card2 h3 {
+    font-family: 'Gilroy-SemiBold';
+    font-size: 27px;
+    width: 312px;
+    color: #ffffff;
+    text-align: left;
+}
+
+.promot-n-gifts__card1 p, .promot-n-gifts__card2 p {
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    width: 312px;
+    color: #ffffff;
+    text-align: justify;
+}
+
+.promot-n-gifts__card1 a, .promot-n-gifts__card2 a {
+    display: block;
+    width: 234px;
+    height: 32px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    text-decoration: none;    
+    color: #000000;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.buildedhouses h2 {
+    font-family: 'Gilroy-Light';
+    font-size: 47px;
+    color: #2D2D2F;
+}
+
+.buildedhouses h2 b {
+    font-family: 'Gilroy-Bold';
+}
+
+.imgslider div .simage {
+    display: inline-block;
+    margin-right: 18px;
+}
+
+.imgdescript p a {
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    color: #85B73E;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.imgdescript h3 {
+    font-family: 'Gilroy-SemiBold';
+    font-size: 36px;
+    color: #4C4F56;
+}
+
+.imgdescript p {
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    color: #56595f;
+}
+
+.imgdescript p b {
+    font-family: 'Gilroy-Bold';
+}
+
+
+.bhbutton {
+    display: block;
+    width: 234px;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #FEAA01;
+    font-family: 'Gilroy-Bold';
+    font-size: 13px;
+    color: #fcfcfe;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.buildinfo {
+    font-family: 'Gilroy-Regular';
+    font-size: 12px;
+    color: #8E9093;
+}
+
+.buildinfo span {
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    color: #434749;
+}
+.buildinfo span b {
+    font-family: 'Gilroy-Bold';
+    font-size: 28px;
+    color: #434749;
+}
+
+.buildinfo {
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    color: #434749;
+}
+
+.buildinfo b {
+    font-family: 'Gilroy-SemiBold';
+}
+
+.suconstrsite h2 {
+    font-family: 'Gilroy-Light';
+    font-size: 36px;
+    color: #2D2D2F;
+}
+
+.suconstrsite h2 b {
+    font-family: 'Gilroy-Bold';
+}
+
+.suconstrsite .listinfo {
+    font-family: 'Gilroy-Regular';
+    font-size: 19px;
+    color: #4C4F56;
+}
+
+.suconstrsite .listitemdata {
+    font-family: 'Gilroy-Regular';
+    font-size: 13px;
+    color: #000;
+}
+
+.suconstrsite .listitemdata span {
+    font-family: 'Gilroy-Bold';
+}
+
+.suconstrsite .suinput {
+    font-family: 'Gilroy-Light';
+    font-size: 13px;
+    color: #413E3F;
+}
+
+.suconstrsite .confpolicy {
+    font-family: 'Gilroy-Light';
+    font-size: 10px;
+    color: #413E3F;
+}
+
+.suconstrsite .confpolicy b {
+    font-family: 'Gilroy-Bold';
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
 }
