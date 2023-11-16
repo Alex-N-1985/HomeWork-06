@@ -389,6 +389,7 @@ nav ul li:hover {
 }
 
 footer {
+    display: block;
     background-color: #373739;
     width: 1440px;
     height: 160px;
@@ -893,4 +894,253 @@ footer {
     color: #f3b43f;
     text-decoration-line: underline;
     text-decoration-style: dashed;
+}
+
+.comp-dir {
+    font-size: 0;
+}
+
+.comp-dir h2 {
+    font-family: 'Gilroy-Light';
+    font-size: 47px;
+    color: #2d2d2f;
+}
+
+.comp-dir h2 b {
+    font-family: 'Gilroy-Bold'
+}
+
+.comp-dir p {
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    color: #6f7276;
+    text-align: justify;
+}
+
+.comp-dir ul {
+    list-style-type: none;    
+}
+
+.comp-dir ul li {
+    display: inline-block;
+    width: 120px;
+    margin-right: 25px;
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    color: #434749;
+}
+
+.comp-dir ul li b {
+    font-family: 'Gilroy-Bold';
+    font-size: 47px;
+}
+
+.list-disc {
+    display: inline-block;
+    background-color: #F5BA40;
+    width: 9px;
+    height: 9px;
+    border-radius: 5px;
+}
+
+.questions2 {
+    font-size: 0;
+}
+
+.questions2 h2 {
+    font-family: 'Gilroy-Light';
+    font-size: 47px;
+    color: #2d2d2f;
+}
+
+.questions2 h2 b {
+    font-family: 'Gilroy-Bold';
+}
+
+.questions2 p {
+    font-family: 'Gilroy-Regular';
+    font-size: 12px;
+    color: #565962;
+}
+
+.questions2 p b {
+    font-family: 'Gilroy-Bold';
+}
+
+.faq {
+    display: block;
+    width: 540px;
+    height: 420px;
+    padding: 0;
+}
+
+.faq__item {
+    display: block;
+    width: 539px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #EFEFEF;
+}
+
+.faq__item h3 {
+    font-family: 'Gilroy-Bold';
+    font-size: 16px;
+    color: #585B63;
+}
+
+.faq__item-selected {
+    background-color: #78AF36;    
+}
+
+.faq__item-selected h3 {
+    color: #F5F6FA;
+}
+
+.estimate {
+    padding: 0;
+    display: block;
+    width: 1110px;
+    height: 530px;
+    font-size: 0;
+}
+
+.estimate__info {
+    display: inline-block;
+    width: 715px;
+    height: 520px;
+    background-image: url(../img/chertegh.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-top-left-radius: 120px;
+}
+
+.estimate__info h2 {
+    font-family: 'Gilroy-Light';
+    font-size: 36px;
+    color: #2d2d2f;
+}
+
+.estimate__info h2 b {
+    font-family: 'Gilroy-Bold';
+}
+
+.estimate__info p {
+    font-family: 'Gilroy-Bold';
+    font-size: 16px;
+    color: #494b50;
+}
+
+.estimate__info ul {
+    list-style-type: none;
+}
+
+.estimate__info ul li {
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    color: #494b50;
+}
+
+.estimate__info ul li b {
+    font-family: 'Gilroy-Bold';
+}
+
+.estimate__contacts {
+    display: inline-block;
+    width: 390px;
+    height: 520px;
+    background-color: #fff;
+}
+
+.estimate__contacts h3 {
+    font-family: 'Gilroy-Bold';
+    font-size: 19px;
+    color: #262425;
+}
+
+.estimate__contacts p {
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    color: #4c4f56;
+}
+
+.estimate__contacts h4 {
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    color: #262425;
+}
+
+.estimate__contacts div {
+    display: inline-block;
+    width: 80px;
+    height: 90px;
+    margin-right: 10px;
+    font-family: 'Gilroy-Regular';
+    font-size: 15px;
+    color: #706f75;
+}
+
+.estimate__contacts .confpolicy {
+    font-family: 'Gilroy-Light';
+    font-size: 10px;
+    color: #413E3F;
+}
+
+.estimate__contacts .confpolicy b {
+    font-family: 'Gilroy-Bold';
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.ourcontacts {
+    display: block;
+    padding: 0;
+    font-size: 0;
+}
+
+.ourcontacts__data h3 {
+    font-family: 'Gilroy-Bold';
+    font-size: 20px;
+    color: black;
+}
+
+.ourcontacts__data-adress {
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    color: #4c4c4d;
+}
+
+.ourcontacts__data-worktime  {
+    font-family: 'Gilroy-Regular';
+    font-size: 10px;
+    color: #605F60;
+}
+
+.ourcontacts__data-phone {
+    font-family: 'Gilroy-Bold';
+    font-size: 24px;
+    color: #363435;
+}
+
+.ourcontacts__data-writeus {
+    font-family: 'Gilroy-Bold';
+    font-size: 13px;
+    color: #363435;
+}
+
+.ourcontacts__data p a {
+    font-family: 'Gilroy-Bold';
+    font-size: 13px;
+    color: #8CB746;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.ourcontacts__location {
+    font-size: 0;
+}
+
+.ourcontacts__location h3 {
+    font-family: 'Gilroy-Bold';
+    font-size: 20px;
+    color: black;
 }
